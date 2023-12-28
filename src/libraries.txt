@@ -1,0 +1,11 @@
+Pandas: https://pandas.pydata.org/
+
+NumPy: https://numpy.org/
+
+Random User: https://randomuser.me/documentation#intro
+
+FrutyVice: https://www.fruityvice.com/
+
+Free public APIs: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
+Beautiful Soup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#
